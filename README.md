@@ -20,4 +20,6 @@ $ hexo new post '新文章'
 $ hexo deploy -g
 ```
 
+更多操作，见 https://hexo.io/zh-cn/docs/writing.html
+
 
