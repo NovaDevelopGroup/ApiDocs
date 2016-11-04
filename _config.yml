@@ -70,5 +70,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/NovaDevelopGroup/ApiDocs.git
-  branch: pages
+  branch: gh-pages
 
